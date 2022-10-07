@@ -22,9 +22,9 @@ public class Main {
         frame.setResizable(false);
         frame.setSize(450,800);
         // frame.setLayout(null);
-        frame.setVisible(true); 
-        frame.getContentPane().setBackground(new Color(201,242,194));
+        frame.getContentPane().setBackground(new Color(133,187,101));
         frame.add(title);
+        frame.setVisible(true); 
 
 
 
